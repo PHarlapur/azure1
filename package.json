@@ -2,7 +2,7 @@
   "name": "azure1",
   "version": "0.0.0",
   "license": "MIT",
-  "engines":{"node":"8.7.0 --scripts-prepend-node-path"},  
+  "engines":{"node":"8.7.0"},  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
